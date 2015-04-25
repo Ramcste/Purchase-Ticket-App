@@ -1,0 +1,12 @@
+H:\Workspace\Visual Studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.exe.config
+H:\Workspace\Visual Studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.exe
+H:\Workspace\Visual Studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.pdb
+H:\Workspace\Visual Studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.csprojResolveAssemblyReference.cache
+H:\Workspace\Visual Studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.Form1.resources
+H:\Workspace\Visual Studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.Properties.Resources.resources
+H:\Workspace\Visual Studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.csproj.GenerateResource.Cache
+H:\Workspace\Visual Studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.exe
+H:\Workspace\Visual Studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PurchaseTicketApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.pdb
